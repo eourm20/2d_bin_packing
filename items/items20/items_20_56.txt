@@ -1,20 +1,20 @@
-37 78
-15 102
-98 24
-84 4
-25 70
-53 56
-2 184
-22 1
-1 64
-56 27
-44 118
-48 70
-80 33
-66 4
-49 109
-13 8
-7 27
-85 41
-100 11
-26 61
+33 42 blue
+7 3 skyblue
+9 35 skyblue
+5 30 skyblue
+68 76 navy
+9 34 skyblue
+33 64 blue
+7 14 skyblue
+3 9 skyblue
+23 77 blue
+12 27 skyblue
+4 39 skyblue
+16 3 skyblue
+8 12 skyblue
+13 25 skyblue
+32 52 blue
+41 97 navy
+17 20 skyblue
+9 17 skyblue
+10 28 skyblue

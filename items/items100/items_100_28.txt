@@ -1,100 +1,100 @@
-19 66
-80 36
-17 77
-76 9
-33 162
-24 8
-33 70
-50 57
-52 80
-4 71
-49 77
-25 35
-70 7
-83 62
-29 101
-62 32
-20 140
-68 49
-3 198
-34 39
-23 45
-99 15
-17 80
-37 64
-60 23
-20 164
-89 16
-18 100
-68 44
-56 1
-61 97
-25 158
-91 59
-24 185
-68 6
-30 114
-25 56
-66 55
-2 134
-83 67
-71 18
-60 5
-31 31
-15 56
-10 173
-62 54
-66 58
-3 11
-13 81
-22 120
-41 10
-16 82
-18 86
-36 30
-24 147
-14 92
-53 14
-1 191
-25 135
-23 109
-53 41
-61 53
-35 81
-10 130
-24 15
-55 14
-6 35
-23 138
-46 36
-34 25
-15 64
-25 96
-8 31
-56 1
-14 9
-22 123
-42 15
-56 64
-72 76
-81 18
-34 7
-33 157
-28 43
-44 38
-59 49
-87 11
-69 3
-23 90
-26 37
-28 1
-12 42
-92 27
-23 55
-85 13
-24 169
-45 16
-20 67
-52 63
-20 91
-9 27
+13 36 skyblue
+15 6 skyblue
+12 30 skyblue
+17 35 skyblue
+3 5 skyblue
+29 59 blue
+44 105 navy
+7 21 skyblue
+5 9 skyblue
+8 35 skyblue
+15 7 skyblue
+5 28 skyblue
+58 71 navy
+17 5 skyblue
+18 6 skyblue
+11 4 skyblue
+9 27 skyblue
+14 7 skyblue
+2 25 skyblue
+10 27 skyblue
+64 85 navy
+50 65 navy
+13 16 skyblue
+3 19 skyblue
+13 6 skyblue
+16 26 skyblue
+7 32 skyblue
+39 45 blue
+13 4 skyblue
+34 77 blue
+18 12 skyblue
+24 71 blue
+3 34 skyblue
+14 35 skyblue
+33 51 blue
+2 19 skyblue
+8 11 skyblue
+5 35 skyblue
+12 26 skyblue
+70 55 navy
+21 22 blue
+2 40 skyblue
+18 28 skyblue
+49 59 navy
+5 3 skyblue
+16 7 skyblue
+30 76 blue
+2 9 skyblue
+3 40 skyblue
+16 26 skyblue
+14 40 skyblue
+31 64 blue
+19 27 skyblue
+18 8 skyblue
+16 7 skyblue
+32 46 blue
+4 23 skyblue
+22 57 blue
+14 18 skyblue
+8 28 skyblue
+17 13 skyblue
+21 77 blue
+30 62 blue
+28 73 blue
+31 36 blue
+10 2 skyblue
+16 3 skyblue
+11 13 skyblue
+7 30 skyblue
+12 27 skyblue
+25 43 blue
+17 15 skyblue
+12 9 skyblue
+9 20 skyblue
+15 1 skyblue
+17 18 skyblue
+13 3 skyblue
+65 42 navy
+38 70 blue
+15 13 skyblue
+33 77 blue
+21 47 blue
+65 72 navy
+1 6 skyblue
+48 63 navy
+14 12 skyblue
+19 24 skyblue
+4 19 skyblue
+13 10 skyblue
+7 7 skyblue
+51 74 navy
+10 26 skyblue
+35 66 blue
+33 23 blue
+1 37 skyblue
+4 27 skyblue
+5 30 skyblue
+14 21 skyblue
+6 22 skyblue
+11 30 skyblue

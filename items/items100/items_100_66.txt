@@ -1,100 +1,100 @@
-62 21
-9 145
-17 170
-17 47
-17 17
-59 30
-14 163
-9 128
-12 199
-8 15
-97 18
-34 51
-41 47
-92 20
-17 156
-11 71
-88 52
-3 189
-42 87
-28 55
-17 155
-35 30
-82 63
-39 36
-19 139
-33 36
-8 179
-8 81
-43 17
-29 13
-82 67
-16 80
-38 7
-13 154
-20 182
-13 113
-80 22
-51 85
-5 115
-95 2
-47 3
-81 2
-36 98
-73 45
-45 124
-11 66
-55 69
-20 178
-79 40
-9 62
-93 13
-73 2
-71 48
-51 20
-4 36
-59 44
-56 34
-60 73
-9 51
-2 79
-20 98
-5 25
-35 108
-100 27
-7 3
-6 55
-23 147
-35 93
-19 104
-5 87
-14 167
-31 43
-45 67
-4 57
-75 80
-76 8
-75 21
-80 27
-68 23
-1 156
-67 47
-6 146
-19 168
-2 99
-11 90
-25 21
-79 17
-7 182
-98 54
-1 30
-4 193
-26 130
-89 4
-24 101
-100 35
-16 53
-71 74
-59 88
-24 100
-24 129
+36 23 blue
+11 18 skyblue
+19 18 skyblue
+8 25 skyblue
+10 3 skyblue
+25 34 blue
+19 11 skyblue
+67 71 navy
+51 86 navy
+4 33 skyblue
+27 79 blue
+10 12 skyblue
+19 36 skyblue
+19 31 skyblue
+20 29 skyblue
+58 107 navy
+3 3 skyblue
+10 18 skyblue
+21 72 blue
+2 37 skyblue
+16 2 skyblue
+16 16 skyblue
+19 39 skyblue
+33 34 blue
+12 4 skyblue
+16 15 skyblue
+43 87 navy
+16 23 skyblue
+26 48 blue
+6 24 skyblue
+8 6 skyblue
+32 78 blue
+9 7 skyblue
+15 27 skyblue
+52 73 navy
+11 17 skyblue
+5 12 skyblue
+17 31 skyblue
+13 1 skyblue
+4 37 skyblue
+16 32 skyblue
+15 30 skyblue
+8 10 skyblue
+5 29 skyblue
+2 7 skyblue
+17 19 skyblue
+25 27 blue
+7 8 skyblue
+6 19 skyblue
+2 25 skyblue
+23 48 blue
+9 30 skyblue
+40 57 blue
+11 33 skyblue
+5 18 skyblue
+9 4 skyblue
+29 48 blue
+3 40 skyblue
+61 51 navy
+9 8 skyblue
+14 19 skyblue
+17 37 skyblue
+12 24 skyblue
+6 27 skyblue
+5 40 skyblue
+6 3 skyblue
+2 23 skyblue
+2 9 skyblue
+5 27 skyblue
+5 16 skyblue
+18 22 skyblue
+38 51 blue
+4 16 skyblue
+33 48 blue
+67 81 navy
+6 35 skyblue
+47 54 navy
+6 34 skyblue
+31 50 blue
+29 46 blue
+1 39 skyblue
+6 25 skyblue
+17 6 skyblue
+10 15 skyblue
+3 28 skyblue
+18 37 skyblue
+12 33 skyblue
+37 43 blue
+10 33 skyblue
+10 39 skyblue
+28 33 blue
+16 6 skyblue
+18 29 skyblue
+68 62 navy
+7 3 skyblue
+27 22 blue
+22 51 blue
+61 106 navy
+1 32 skyblue
+33 73 blue

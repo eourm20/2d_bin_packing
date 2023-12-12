@@ -1,100 +1,100 @@
-9 24
-26 97
-11 78
-33 178
-55 57
-8 99
-27 122
-17 134
-19 75
-48 113
-10 53
-50 17
-60 47
-7 57
-23 43
-32 166
-96 10
-3 86
-22 36
-10 152
-26 19
-55 3
-16 68
-2 121
-23 42
-15 186
-49 112
-8 76
-70 32
-70 12
-1 186
-26 136
-2 47
-36 141
-1 91
-8 36
-40 54
-63 48
-12 2
-4 88
-7 75
-82 14
-35 84
-91 54
-36 42
-20 172
-35 96
-39 7
-57 45
-87 39
-5 22
-21 32
-26 85
-31 119
-12 175
-65 30
-32 51
-96 5
-98 8
-18 67
-32 38
-34 55
-25 22
-96 5
-45 116
-35 91
-28 79
-20 126
-15 140
-12 113
-36 108
-16 6
-4 190
-3 183
-42 135
-7 104
-69 52
-39 48
-9 186
-37 151
-79 18
-57 19
-31 144
-20 73
-33 121
-46 25
-25 156
-8 144
-24 41
-10 172
-5 17
-38 43
-8 153
-6 111
-34 70
-47 38
-9 56
-38 61
-84 26
-82 30
+5 39 skyblue
+64 70 navy
+48 78 navy
+9 6 skyblue
+16 8 skyblue
+13 21 skyblue
+6 35 skyblue
+25 37 blue
+62 47 navy
+16 9 skyblue
+19 26 skyblue
+7 19 skyblue
+3 14 skyblue
+27 43 blue
+6 6 skyblue
+4 21 skyblue
+5 40 skyblue
+3 8 skyblue
+39 43 blue
+8 3 skyblue
+12 32 skyblue
+7 12 skyblue
+19 10 skyblue
+19 9 skyblue
+16 7 skyblue
+5 8 skyblue
+11 25 skyblue
+11 27 skyblue
+16 23 skyblue
+5 16 skyblue
+4 5 skyblue
+30 73 blue
+32 61 blue
+16 1 skyblue
+2 28 skyblue
+37 51 blue
+18 29 skyblue
+66 89 navy
+6 12 skyblue
+5 6 skyblue
+24 74 blue
+28 37 blue
+1 20 skyblue
+41 83 navy
+25 24 blue
+15 34 skyblue
+62 107 navy
+6 40 skyblue
+17 30 skyblue
+14 34 skyblue
+2 35 skyblue
+6 14 skyblue
+17 20 skyblue
+27 76 blue
+11 12 skyblue
+32 27 blue
+14 25 skyblue
+2 13 skyblue
+13 23 skyblue
+27 63 blue
+7 8 skyblue
+6 26 skyblue
+35 34 blue
+15 40 skyblue
+16 14 skyblue
+19 2 skyblue
+65 118 navy
+14 9 skyblue
+30 26 blue
+7 26 skyblue
+67 109 navy
+19 30 skyblue
+36 37 blue
+19 32 skyblue
+23 71 blue
+1 1 skyblue
+16 25 skyblue
+2 6 skyblue
+18 26 skyblue
+40 60 blue
+4 15 skyblue
+13 17 skyblue
+6 15 skyblue
+18 24 skyblue
+12 14 skyblue
+9 23 skyblue
+17 16 skyblue
+2 7 skyblue
+8 24 skyblue
+2 15 skyblue
+29 58 blue
+64 128 navy
+34 50 blue
+3 40 skyblue
+16 3 skyblue
+42 113 navy
+24 63 blue
+14 36 skyblue
+19 26 skyblue
+15 15 skyblue

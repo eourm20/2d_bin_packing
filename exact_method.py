@@ -3,6 +3,8 @@ import time
 from pulp import *
 import pickle
 import argparse
+import matplotlib.pyplot as plt
+import matplotlib.patches as patches
 
 def binsolve(item, num_items, num_bins, W, H):
     # item = [(w, h), ...]
@@ -74,8 +76,60 @@ def binsolve(item, num_items, num_bins, W, H):
     else:
         print("최적해 찾지 못함..")
         
+def load_prob(num_items, num_bins, item, category_color, bin_width, bin_height):
+    with open(f'prob_LP_{num_items}.pkl', 'rb') as f:
+        prob = pickle.load(f)
+    print(f"사용된 최적의 bins 개수: {prob.objective.value()}")
+    print(f"최잭해를 찾는데 걸린 시간: {prob.solutionTime}")
+    # 만족되지 않은 제약조건 확인
+    check_constraints(prob)
 
+    # 시각화
+    visualize_bins(prob, num_items, num_bins, item, category_color, bin_width, bin_height)
+    
+        
+def check_constraints(prob):
+    constraints_list = ["제약조건1", "제약조건2", "제약조건3", "제약조건4"]
+    for constraint_name in constraints_list:
+        for name, constraint in prob.constraints.items():
+            if str(name).startswith(constraint_name):
+                if constraint.value() < 0:
+                    print(f"{name} 제약 조건이 만족되지 않습니다. 값: {constraint.value()}")
+    print("제약 조건 확인 완료")
+            
+def visualize_bins(prob, num_items, num_bins, item, category_color, W, H):
+    w = [item[0] for item in item]
+    h = [item[1] for item in item]
+    
+    used_bins = [k for k in range(num_bins) if any([prob.variablesDict()[f"z_({i},_{k})"].varValue == 1 for i in range(num_items)])]
+    fig, axs = plt.subplots(1, len(used_bins), figsize=(5*len(used_bins), 5))
 
+    if len(used_bins) == 1:
+        axs = [axs]
+
+    for bin_index, k in enumerate(used_bins):
+        ax = axs[bin_index]
+        ax.set_xlim([0, W])
+        ax.set_ylim([0, H])
+        ax.set_aspect('equal')
+        ax.set_title(f"Bin {bin_index}")  # Here, bin_index starts from 0, so we add 1 to start from 1
+        ax.set_xticks([])
+        ax.set_yticks([])
+
+        items_in_bin = [i for i in range(num_items) if prob.variablesDict()[f"z_({i},_{k})"].varValue == 1]
+
+        for i in items_in_bin:
+            x = prob.variablesDict()[f"x_{i}"].varValue
+            y = prob.variablesDict()[f"y_{i}"].varValue
+            rect = patches.Rectangle((x, y), w[i], h[i], fill=True, color=category_color[i], alpha=0.6)
+            ax.add_patch(rect)
+            ax.text(x + w[i]/2, y + h[i]/2, str(i+1), ha='center', va='center')
+
+    plt.tight_layout()
+    if not os.path.exists(f'exact_result/render'):
+        os.makedirs(f'exact_result/render')
+    plt.savefig(f'exact_result/render/items{num_items}.png')
+            
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--num_items',dest="num_items", type=int, default=20)
@@ -84,11 +138,10 @@ if __name__ == '__main__':
     bin_height = 200
     num_items = args.num_items
     num_bins = num_items # bin의 개수는 item의 개수보다 작거나 같음
-    item = load_items(num_items)
-    time_start = time()
-    binsolve(item, num_items, num_bins, bin_width, bin_height)
-    time_end = time()
-    print(f"{num_items}개 item 실험 완료")
-    print("걸린 시간: {}".format(time_end - time_start))
+    item, category_color = load_items(num_items, 0)
+    # binsolve(item, num_items, num_bins, bin_width, bin_height)
+    # print(f"{num_items}개 item 실험 완료")
+    
+    load_prob(num_items, num_bins, item, category_color, bin_width, bin_height)
     
     

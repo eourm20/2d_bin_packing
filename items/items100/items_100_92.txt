@@ -1,100 +1,100 @@
-21 175
-14 183
-27 124
-33 12
-33 10
-42 51
-10 177
-33 115
-44 56
-12 93
-72 74
-45 83
-26 130
-58 53
-24 97
-95 38
-2 78
-73 10
-31 8
-18 195
-4 157
-12 80
-61 19
-51 99
-17 10
-32 4
-48 25
-25 99
-23 90
-36 132
-4 185
-2 79
-31 159
-58 24
-35 156
-80 40
-10 55
-5 95
-1 62
-13 64
-69 79
-6 89
-21 140
-36 147
-13 65
-36 71
-14 42
-16 124
-3 38
-69 22
-63 42
-7 174
-32 40
-35 89
-26 5
-23 62
-8 146
-63 21
-8 152
-37 35
-47 32
-37 18
-61 40
-10 35
-9 70
-2 29
-61 64
-64 26
-96 51
-86 33
-89 18
-28 85
-14 180
-61 11
-5 156
-15 134
-11 3
-66 63
-1 131
-82 37
-78 12
-98 2
-67 23
-14 60
-67 88
-61 10
-48 62
-15 34
-1 148
-63 48
-50 16
-15 125
-18 74
-84 42
-1 163
-1 129
-17 130
-23 36
-10 121
-27 50
+39 66 blue
+1 21 skyblue
+7 34 skyblue
+1 12 skyblue
+13 12 skyblue
+1 36 skyblue
+4 10 skyblue
+6 32 skyblue
+6 30 skyblue
+1 13 skyblue
+5 30 skyblue
+48 127 navy
+17 4 skyblue
+7 12 skyblue
+35 74 blue
+2 33 skyblue
+27 66 blue
+4 22 skyblue
+15 14 skyblue
+13 20 skyblue
+13 35 skyblue
+2 26 skyblue
+1 28 skyblue
+11 11 skyblue
+7 4 skyblue
+20 21 skyblue
+30 68 blue
+16 20 skyblue
+20 11 skyblue
+18 28 skyblue
+35 80 blue
+6 2 skyblue
+3 36 skyblue
+14 6 skyblue
+3 36 skyblue
+9 2 skyblue
+19 25 skyblue
+56 131 navy
+15 7 skyblue
+1 33 skyblue
+14 9 skyblue
+16 8 skyblue
+10 9 skyblue
+35 77 blue
+2 32 skyblue
+52 63 navy
+20 4 skyblue
+32 41 blue
+20 9 skyblue
+7 11 skyblue
+45 71 navy
+57 59 navy
+6 33 skyblue
+27 57 blue
+39 52 blue
+8 37 skyblue
+17 24 skyblue
+14 24 skyblue
+12 24 skyblue
+53 72 navy
+10 13 skyblue
+8 17 skyblue
+2 30 skyblue
+12 7 skyblue
+27 70 blue
+12 23 skyblue
+24 38 blue
+14 14 skyblue
+6 29 skyblue
+17 40 skyblue
+62 67 navy
+2 27 skyblue
+38 25 blue
+43 43 navy
+32 79 blue
+37 32 blue
+5 33 skyblue
+7 27 skyblue
+6 10 skyblue
+22 79 blue
+37 73 blue
+34 49 blue
+18 38 skyblue
+22 59 blue
+14 1 skyblue
+19 17 skyblue
+20 40 skyblue
+14 20 skyblue
+5 35 skyblue
+35 34 blue
+13 29 skyblue
+13 22 skyblue
+15 26 skyblue
+19 19 skyblue
+13 7 skyblue
+56 96 navy
+6 13 skyblue
+61 94 navy
+12 37 skyblue
+28 47 blue

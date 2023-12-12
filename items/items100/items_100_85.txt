@@ -1,100 +1,100 @@
-2 7
-41 39
-11 2
-21 99
-27 71
-20 162
-51 22
-75 41
-90 23
-73 36
-78 24
-21 99
-2 6
-34 50
-24 167
-44 89
-14 193
-3 34
-57 12
-5 100
-3 53
-9 129
-9 189
-32 149
-57 45
-86 18
-15 99
-24 1
-40 49
-8 143
-13 139
-13 36
-7 7
-76 18
-1 93
-16 66
-90 38
-35 63
-5 184
-86 15
-72 13
-65 80
-19 118
-99 13
-22 89
-17 51
-1 103
-26 37
-13 35
-6 165
-48 62
-67 40
-8 31
-40 93
-4 35
-5 144
-7 54
-25 145
-6 129
-82 68
-14 127
-14 126
-82 28
-7 24
-38 18
-49 93
-92 42
-32 34
-15 35
-13 81
-22 124
-1 128
-69 43
-45 22
-53 75
-29 139
-17 195
-45 69
-22 196
-97 59
-57 67
-84 36
-70 8
-39 50
-32 35
-46 127
-21 159
-39 9
-27 18
-6 118
-55 57
-10 42
-76 44
-3 155
-25 84
-44 78
-5 128
-11 23
-7 129
-30 169
+17 38 skyblue
+61 71 navy
+43 72 navy
+37 76 blue
+16 1 skyblue
+36 36 blue
+16 32 skyblue
+22 67 blue
+30 26 blue
+19 34 skyblue
+2 10 skyblue
+22 30 blue
+3 7 skyblue
+9 6 skyblue
+27 27 blue
+10 10 skyblue
+23 36 blue
+5 11 skyblue
+13 38 skyblue
+2 26 skyblue
+12 23 skyblue
+5 35 skyblue
+13 37 skyblue
+12 20 skyblue
+58 84 navy
+12 15 skyblue
+9 30 skyblue
+18 31 skyblue
+20 4 skyblue
+7 27 skyblue
+13 40 skyblue
+16 29 skyblue
+20 29 skyblue
+8 36 skyblue
+22 54 blue
+10 32 skyblue
+33 72 blue
+18 8 skyblue
+9 2 skyblue
+3 23 skyblue
+18 29 skyblue
+5 28 skyblue
+28 21 blue
+17 39 skyblue
+16 39 skyblue
+3 39 skyblue
+20 3 skyblue
+10 3 skyblue
+9 5 skyblue
+25 30 blue
+20 9 skyblue
+18 24 skyblue
+11 27 skyblue
+5 16 skyblue
+11 39 skyblue
+22 62 blue
+18 33 skyblue
+20 35 skyblue
+5 1 skyblue
+12 35 skyblue
+3 19 skyblue
+21 40 blue
+3 23 skyblue
+4 10 skyblue
+6 22 skyblue
+33 24 blue
+17 18 skyblue
+17 12 skyblue
+62 69 navy
+57 113 navy
+5 15 skyblue
+70 62 navy
+23 52 blue
+10 31 skyblue
+15 15 skyblue
+36 60 blue
+34 25 blue
+13 15 skyblue
+15 19 skyblue
+1 29 skyblue
+70 88 navy
+20 33 skyblue
+5 12 skyblue
+15 33 skyblue
+16 28 skyblue
+55 101 navy
+2 23 skyblue
+34 28 blue
+37 21 blue
+2 16 skyblue
+36 71 blue
+5 31 skyblue
+2 15 skyblue
+13 21 skyblue
+16 6 skyblue
+14 13 skyblue
+6 22 skyblue
+15 38 skyblue
+55 130 navy
+58 104 navy

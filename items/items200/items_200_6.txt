@@ -1,200 +1,200 @@
-37 73
-51 38
-10 4
-94 15
-29 87
-3 104
-73 19
-10 165
-73 60
-42 133
-45 70
-12 12
-34 10
-3 186
-20 108
-13 162
-42 22
-84 5
-28 8
-63 25
-30 5
-53 5
-57 70
-47 52
-20 72
-27 29
-14 36
-34 110
-3 171
-20 32
-24 52
-56 47
-56 42
-18 87
-10 55
-76 37
-85 16
-16 195
-32 84
-28 181
-57 64
-6 59
-1 77
-90 16
-6 34
-16 123
-15 46
-80 39
-8 109
-50 72
-42 125
-42 116
-24 108
-68 18
-44 64
-14 96
-31 67
-38 111
-37 32
-18 52
-32 35
-39 50
-35 155
-27 135
-15 11
-22 22
-43 88
-34 59
-35 63
-75 10
-31 70
-19 33
-20 24
-40 29
-58 50
-40 4
-45 93
-12 61
-62 34
-59 26
-19 69
-20 106
-84 14
-82 64
-63 67
-1 68
-75 33
-35 34
-78 56
-74 16
-20 166
-19 89
-23 42
-83 43
-41 93
-7 135
-1 73
-21 94
-8 14
-7 104
-19 164
-24 64
-26 23
-65 23
-13 94
-94 34
-20 61
-61 29
-3 77
-85 2
-19 7
-45 129
-97 15
-50 21
-16 122
-92 41
-69 30
-9 134
-70 35
-17 156
-20 86
-42 90
-42 60
-57 23
-78 27
-61 27
-25 93
-26 169
-1 149
-23 84
-2 97
-26 74
-26 74
-35 26
-15 78
-86 40
-43 42
-24 8
-95 39
-28 89
-5 163
-24 66
-1 146
-20 186
-67 45
-9 161
-62 59
-27 130
-35 77
-31 49
-44 28
-16 105
-48 92
-22 158
-23 47
-71 11
-20 138
-33 37
-82 14
-70 64
-46 119
-86 8
-41 82
-51 13
-17 152
-90 34
-52 25
-37 14
-20 163
-6 45
-14 130
-4 92
-20 97
-19 85
-32 110
-39 97
-4 140
-32 25
-18 65
-15 107
-40 59
-74 23
-1 107
-20 169
-47 41
-1 145
-86 60
-10 57
-46 120
-69 6
-65 12
-14 44
-58 12
-19 32
-28 163
-26 133
-2 151
-35 154
-29 5
-10 28
+4 19 skyblue
+15 31 skyblue
+23 62 blue
+11 8 skyblue
+35 65 blue
+10 31 skyblue
+10 11 skyblue
+8 3 skyblue
+35 71 blue
+25 47 blue
+1 38 skyblue
+10 29 skyblue
+37 68 blue
+27 27 blue
+6 32 skyblue
+19 5 skyblue
+10 27 skyblue
+15 22 skyblue
+15 23 skyblue
+10 39 skyblue
+7 1 skyblue
+51 133 navy
+33 77 blue
+24 72 blue
+59 105 navy
+2 5 skyblue
+2 4 skyblue
+14 7 skyblue
+2 36 skyblue
+9 20 skyblue
+24 48 blue
+13 18 skyblue
+1 14 skyblue
+11 29 skyblue
+11 4 skyblue
+20 34 skyblue
+67 107 navy
+22 21 blue
+4 18 skyblue
+25 26 blue
+13 1 skyblue
+28 70 blue
+38 61 blue
+24 61 blue
+61 76 navy
+61 61 navy
+55 129 navy
+2 1 skyblue
+20 37 skyblue
+65 72 navy
+6 35 skyblue
+20 6 skyblue
+18 38 skyblue
+7 29 skyblue
+12 39 skyblue
+24 40 blue
+43 131 navy
+16 7 skyblue
+8 39 skyblue
+13 19 skyblue
+2 39 skyblue
+21 38 blue
+25 70 blue
+6 31 skyblue
+7 15 skyblue
+7 8 skyblue
+18 37 skyblue
+19 10 skyblue
+39 76 blue
+16 2 skyblue
+22 46 blue
+6 29 skyblue
+20 29 skyblue
+18 33 skyblue
+41 71 navy
+2 14 skyblue
+34 45 blue
+1 11 skyblue
+19 15 skyblue
+20 37 skyblue
+20 19 skyblue
+11 35 skyblue
+3 28 skyblue
+19 4 skyblue
+18 5 skyblue
+30 30 blue
+3 10 skyblue
+8 2 skyblue
+42 73 navy
+8 28 skyblue
+2 27 skyblue
+15 40 skyblue
+17 7 skyblue
+18 29 skyblue
+45 129 navy
+14 26 skyblue
+2 27 skyblue
+30 49 blue
+7 18 skyblue
+2 23 skyblue
+26 42 blue
+11 15 skyblue
+19 30 skyblue
+28 29 blue
+5 19 skyblue
+64 91 navy
+1 15 skyblue
+13 28 skyblue
+14 35 skyblue
+7 9 skyblue
+21 33 blue
+19 1 skyblue
+9 31 skyblue
+14 9 skyblue
+16 21 skyblue
+9 4 skyblue
+12 13 skyblue
+12 20 skyblue
+39 53 blue
+17 11 skyblue
+4 5 skyblue
+11 17 skyblue
+15 10 skyblue
+13 3 skyblue
+3 13 skyblue
+28 36 blue
+5 26 skyblue
+49 94 navy
+33 65 blue
+3 9 skyblue
+9 12 skyblue
+12 6 skyblue
+30 73 blue
+27 35 blue
+17 13 skyblue
+36 45 blue
+17 17 skyblue
+11 37 skyblue
+15 15 skyblue
+52 129 navy
+24 33 blue
+13 21 skyblue
+20 5 skyblue
+16 23 skyblue
+7 9 skyblue
+13 30 skyblue
+2 36 skyblue
+19 4 skyblue
+44 75 navy
+33 75 blue
+33 46 blue
+13 2 skyblue
+15 5 skyblue
+17 40 skyblue
+18 37 skyblue
+2 31 skyblue
+9 7 skyblue
+4 20 skyblue
+1 9 skyblue
+27 38 blue
+32 62 blue
+6 35 skyblue
+1 1 skyblue
+10 35 skyblue
+15 22 skyblue
+3 33 skyblue
+26 68 blue
+13 3 skyblue
+20 40 skyblue
+5 22 skyblue
+1 40 skyblue
+5 33 skyblue
+20 6 skyblue
+63 56 navy
+16 37 skyblue
+13 20 skyblue
+6 30 skyblue
+25 24 blue
+16 1 skyblue
+15 24 skyblue
+18 14 skyblue
+1 39 skyblue
+58 57 navy
+19 11 skyblue
+18 30 skyblue
+7 5 skyblue
+6 19 skyblue
+22 30 blue
+14 8 skyblue
+39 74 blue
+12 38 skyblue
+5 24 skyblue
+61 81 navy
+15 12 skyblue
+13 39 skyblue
+42 125 navy
+19 30 skyblue
+4 9 skyblue
+6 24 skyblue
+55 115 navy

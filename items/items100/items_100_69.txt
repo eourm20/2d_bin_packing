@@ -1,100 +1,100 @@
-61 45
-8 150
-68 57
-36 41
-10 21
-20 138
-25 25
-20 61
-12 143
-69 26
-25 72
-38 4
-14 58
-12 36
-70 47
-62 55
-3 18
-9 130
-12 76
-14 90
-7 176
-100 47
-19 172
-45 21
-64 91
-52 8
-21 145
-7 98
-95 32
-97 44
-65 28
-40 143
-31 113
-39 49
-43 14
-12 175
-46 54
-29 48
-32 79
-31 132
-49 81
-90 53
-10 106
-1 65
-11 128
-15 48
-19 79
-91 6
-58 8
-59 55
-48 11
-22 156
-95 49
-28 105
-35 30
-17 56
-60 35
-36 25
-62 86
-59 56
-48 14
-24 131
-19 200
-32 53
-52 37
-53 56
-49 19
-41 23
-60 28
-15 25
-15 169
-53 107
-12 77
-17 139
-23 97
-69 50
-24 52
-28 4
-42 73
-46 30
-20 60
-75 44
-1 98
-8 52
-13 161
-11 45
-4 188
-52 17
-2 147
-1 82
-3 165
-7 196
-46 52
-56 31
-7 173
-16 195
-29 37
-33 48
-45 107
-34 26
+17 10 skyblue
+18 22 skyblue
+8 34 skyblue
+8 10 skyblue
+15 10 skyblue
+23 51 blue
+24 72 blue
+37 56 blue
+39 58 blue
+56 139 navy
+10 23 skyblue
+12 36 skyblue
+48 133 navy
+20 3 skyblue
+58 90 navy
+22 21 blue
+20 15 skyblue
+19 8 skyblue
+7 35 skyblue
+5 40 skyblue
+13 4 skyblue
+21 60 blue
+2 4 skyblue
+35 40 blue
+13 24 skyblue
+62 52 navy
+14 15 skyblue
+1 1 skyblue
+17 36 skyblue
+36 56 blue
+5 23 skyblue
+18 39 skyblue
+11 37 skyblue
+2 4 skyblue
+15 22 skyblue
+8 18 skyblue
+40 29 blue
+9 15 skyblue
+48 138 navy
+57 97 navy
+57 43 navy
+36 70 blue
+9 38 skyblue
+4 22 skyblue
+19 21 skyblue
+33 40 blue
+9 40 skyblue
+12 28 skyblue
+7 5 skyblue
+1 16 skyblue
+13 32 skyblue
+6 16 skyblue
+14 29 skyblue
+47 67 navy
+4 33 skyblue
+8 16 skyblue
+17 21 skyblue
+35 40 blue
+13 40 skyblue
+12 7 skyblue
+9 13 skyblue
+11 5 skyblue
+15 22 skyblue
+20 20 skyblue
+29 47 blue
+30 32 blue
+34 28 blue
+2 33 skyblue
+8 17 skyblue
+22 50 blue
+61 136 navy
+14 37 skyblue
+12 15 skyblue
+17 21 skyblue
+17 35 skyblue
+13 17 skyblue
+28 40 blue
+17 2 skyblue
+10 22 skyblue
+18 8 skyblue
+69 123 navy
+6 26 skyblue
+7 3 skyblue
+12 33 skyblue
+6 25 skyblue
+8 15 skyblue
+1 30 skyblue
+5 26 skyblue
+18 36 skyblue
+9 5 skyblue
+1 12 skyblue
+15 37 skyblue
+17 20 skyblue
+7 10 skyblue
+35 38 blue
+5 15 skyblue
+14 21 skyblue
+33 57 blue
+14 8 skyblue
+35 44 blue

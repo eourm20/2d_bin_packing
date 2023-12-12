@@ -1,100 +1,100 @@
-12 129
-16 142
-84 71
-86 33
-67 36
-3 129
-51 2
-27 140
-34 108
-22 142
-100 12
-13 139
-26 143
-43 39
-82 43
-64 10
-16 82
-5 136
-40 80
-6 121
-27 122
-20 178
-1 4
-50 46
-3 115
-24 56
-29 70
-77 4
-34 127
-5 10
-12 45
-66 41
-86 14
-32 100
-32 93
-52 6
-18 117
-6 13
-95 53
-44 53
-5 100
-74 22
-26 36
-35 56
-27 65
-22 190
-13 9
-50 44
-10 146
-76 65
-49 25
-35 51
-12 9
-40 105
-54 42
-50 60
-2 1
-22 57
-7 139
-47 18
-31 23
-39 83
-94 41
-46 69
-42 109
-14 59
-6 159
-12 147
-50 37
-1 182
-43 96
-82 18
-37 120
-15 81
-21 45
-23 101
-20 64
-33 45
-33 71
-40 1
-7 16
-13 38
-7 160
-14 67
-27 1
-96 3
-2 160
-53 10
-3 97
-42 97
-24 119
-70 27
-4 175
-99 31
-51 12
-30 19
-50 43
-3 113
-46 55
-52 13
+10 31 skyblue
+5 13 skyblue
+9 4 skyblue
+1 5 skyblue
+14 5 skyblue
+18 13 skyblue
+41 50 navy
+6 26 skyblue
+25 66 blue
+9 11 skyblue
+18 13 skyblue
+57 135 navy
+24 56 blue
+20 20 skyblue
+15 21 skyblue
+7 7 skyblue
+3 12 skyblue
+17 20 skyblue
+3 26 skyblue
+44 132 navy
+16 7 skyblue
+52 96 navy
+1 22 skyblue
+2 40 skyblue
+5 22 skyblue
+24 64 blue
+20 3 skyblue
+3 39 skyblue
+13 12 skyblue
+34 68 blue
+1 19 skyblue
+13 17 skyblue
+18 21 skyblue
+38 63 blue
+39 51 blue
+33 48 blue
+5 6 skyblue
+17 18 skyblue
+17 16 skyblue
+15 12 skyblue
+1 5 skyblue
+55 74 navy
+17 26 skyblue
+12 16 skyblue
+20 20 skyblue
+3 27 skyblue
+24 76 blue
+8 20 skyblue
+3 36 skyblue
+2 6 skyblue
+17 34 skyblue
+20 12 skyblue
+10 31 skyblue
+39 26 blue
+13 31 skyblue
+3 38 skyblue
+62 124 navy
+10 33 skyblue
+4 5 skyblue
+5 39 skyblue
+1 26 skyblue
+24 57 blue
+23 66 blue
+5 32 skyblue
+8 3 skyblue
+8 1 skyblue
+15 21 skyblue
+18 39 skyblue
+40 50 blue
+26 37 blue
+38 47 blue
+13 26 skyblue
+39 72 blue
+16 13 skyblue
+15 21 skyblue
+13 10 skyblue
+39 34 blue
+54 61 navy
+9 34 skyblue
+27 37 blue
+14 23 skyblue
+5 27 skyblue
+3 39 skyblue
+16 11 skyblue
+10 37 skyblue
+12 15 skyblue
+38 60 blue
+10 34 skyblue
+11 39 skyblue
+30 63 blue
+17 17 skyblue
+2 13 skyblue
+30 71 blue
+18 37 skyblue
+55 138 navy
+2 10 skyblue
+16 4 skyblue
+49 97 navy
+45 46 navy
+11 37 skyblue

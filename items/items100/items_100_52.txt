@@ -1,100 +1,100 @@
-45 105
-65 74
-98 12
-5 154
-35 18
-22 127
-22 175
-53 63
-64 34
-89 13
-37 135
-29 133
-10 199
-51 6
-50 5
-78 11
-58 5
-40 74
-15 12
-96 9
-7 26
-83 40
-21 170
-38 14
-11 167
-48 5
-30 55
-12 122
-59 37
-83 24
-78 51
-39 31
-61 7
-13 44
-1 100
-4 84
-44 63
-10 32
-7 69
-87 15
-76 13
-64 42
-1 152
-30 181
-45 102
-85 38
-3 3
-7 29
-22 3
-6 51
-71 27
-29 34
-10 4
-44 60
-16 96
-73 48
-33 31
-3 1
-58 91
-38 3
-74 46
-56 40
-41 10
-28 156
-2 89
-58 23
-11 8
-43 31
-16 68
-18 177
-9 82
-13 163
-75 74
-17 191
-64 20
-18 134
-45 72
-4 60
-16 28
-34 99
-5 171
-20 145
-17 200
-16 58
-33 52
-57 50
-7 172
-9 101
-22 121
-25 34
-19 109
-39 25
-52 33
-1 52
-24 40
-28 193
-22 165
-21 107
-3 31
-88 62
+13 16 skyblue
+70 128 navy
+14 15 skyblue
+8 21 skyblue
+9 37 skyblue
+2 40 skyblue
+44 83 navy
+2 11 skyblue
+1 25 skyblue
+1 30 skyblue
+18 40 skyblue
+20 27 skyblue
+42 104 navy
+22 72 blue
+2 13 skyblue
+3 3 skyblue
+18 8 skyblue
+24 53 blue
+36 46 blue
+31 25 blue
+12 34 skyblue
+3 16 skyblue
+11 8 skyblue
+12 28 skyblue
+30 75 blue
+20 8 skyblue
+12 4 skyblue
+7 4 skyblue
+26 21 blue
+13 20 skyblue
+13 25 skyblue
+1 1 skyblue
+14 1 skyblue
+10 40 skyblue
+6 36 skyblue
+12 37 skyblue
+35 79 blue
+17 27 skyblue
+26 65 blue
+4 28 skyblue
+14 4 skyblue
+47 90 navy
+8 9 skyblue
+19 22 skyblue
+16 7 skyblue
+12 35 skyblue
+20 12 skyblue
+65 54 navy
+16 8 skyblue
+7 3 skyblue
+28 76 blue
+5 24 skyblue
+18 20 skyblue
+21 73 blue
+2 7 skyblue
+20 36 skyblue
+46 138 navy
+18 15 skyblue
+14 23 skyblue
+9 25 skyblue
+13 3 skyblue
+5 25 skyblue
+9 10 skyblue
+10 8 skyblue
+3 16 skyblue
+38 28 blue
+9 23 skyblue
+6 18 skyblue
+35 70 blue
+1 29 skyblue
+16 17 skyblue
+33 76 blue
+9 33 skyblue
+1 19 skyblue
+40 71 blue
+36 31 blue
+6 4 skyblue
+1 24 skyblue
+2 20 skyblue
+57 68 navy
+16 1 skyblue
+28 53 blue
+61 78 navy
+2 36 skyblue
+15 35 skyblue
+20 36 skyblue
+30 51 blue
+7 28 skyblue
+14 38 skyblue
+58 41 navy
+9 30 skyblue
+18 22 skyblue
+27 44 blue
+15 37 skyblue
+35 72 blue
+28 22 blue
+47 100 navy
+13 15 skyblue
+9 2 skyblue
+3 33 skyblue

@@ -1,50 +1,50 @@
-48 6
-33 19
-48 57
-53 32
-56 8
-94 33
-46 23
-16 163
-38 7
-34 32
-30 49
-81 33
-51 39
-32 20
-75 19
-94 50
-60 59
-13 67
-28 29
-34 26
-31 118
-11 42
-80 10
-38 68
-36 127
-37 52
-56 53
-55 18
-13 7
-86 30
-13 76
-58 85
-98 56
-7 105
-30 146
-52 44
-13 92
-35 2
-26 53
-75 53
-44 38
-4 34
-29 22
-32 1
-27 15
-14 143
-53 44
-20 187
-71 19
-100 29
+27 67 blue
+29 22 blue
+3 1 skyblue
+11 13 skyblue
+17 40 skyblue
+57 107 navy
+16 39 skyblue
+22 61 blue
+6 1 skyblue
+12 25 skyblue
+11 5 skyblue
+11 15 skyblue
+3 3 skyblue
+17 9 skyblue
+11 1 skyblue
+36 53 blue
+32 21 blue
+11 28 skyblue
+19 4 skyblue
+18 30 skyblue
+17 22 skyblue
+27 49 blue
+2 5 skyblue
+20 36 skyblue
+28 22 blue
+60 105 navy
+6 24 skyblue
+13 15 skyblue
+23 29 blue
+3 24 skyblue
+17 13 skyblue
+39 57 blue
+4 40 skyblue
+29 31 blue
+63 52 navy
+20 12 skyblue
+5 27 skyblue
+9 38 skyblue
+12 8 skyblue
+15 9 skyblue
+7 3 skyblue
+3 39 skyblue
+66 125 navy
+14 15 skyblue
+1 2 skyblue
+6 29 skyblue
+12 39 skyblue
+16 14 skyblue
+3 4 skyblue
+50 100 navy

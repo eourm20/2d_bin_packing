@@ -1,100 +1,100 @@
-5 144
-3 27
-35 14
-49 20
-42 27
-79 51
-4 9
-2 81
-80 71
-99 27
-60 41
-60 50
-17 73
-60 23
-68 64
-58 48
-7 51
-39 3
-52 34
-68 15
-24 22
-84 28
-6 196
-42 37
-70 28
-79 31
-11 57
-3 190
-56 22
-16 50
-40 33
-52 92
-11 147
-32 98
-72 36
-70 38
-42 52
-12 120
-62 6
-8 51
-1 39
-4 22
-5 112
-82 35
-21 188
-18 40
-1 61
-22 104
-27 41
-41 80
-8 7
-70 48
-17 191
-15 80
-65 76
-32 186
-25 69
-1 141
-44 13
-18 71
-91 7
-69 47
-49 8
-99 12
-21 125
-54 5
-58 27
-13 103
-45 74
-30 86
-25 149
-7 11
-16 103
-36 76
-26 72
-5 23
-29 26
-36 37
-11 87
-68 70
-24 101
-14 21
-40 9
-63 54
-28 83
-35 159
-36 15
-61 65
-20 166
-4 45
-9 154
-82 18
-100 38
-53 92
-89 5
-34 79
-18 44
-57 64
-25 162
-10 12
+67 113 navy
+8 32 skyblue
+39 48 blue
+14 19 skyblue
+20 29 skyblue
+30 24 blue
+3 38 skyblue
+16 15 skyblue
+7 18 skyblue
+9 31 skyblue
+44 88 navy
+9 18 skyblue
+66 41 navy
+15 17 skyblue
+14 20 skyblue
+39 47 blue
+17 16 skyblue
+13 2 skyblue
+8 4 skyblue
+6 38 skyblue
+19 28 skyblue
+33 27 blue
+25 51 blue
+9 12 skyblue
+11 4 skyblue
+1 28 skyblue
+14 15 skyblue
+38 61 blue
+41 48 navy
+33 37 blue
+40 35 blue
+13 1 skyblue
+12 9 skyblue
+1 21 skyblue
+14 20 skyblue
+18 21 skyblue
+16 25 skyblue
+16 32 skyblue
+19 32 skyblue
+28 71 blue
+9 24 skyblue
+8 16 skyblue
+66 133 navy
+5 36 skyblue
+38 57 blue
+37 38 blue
+11 28 skyblue
+13 29 skyblue
+54 55 navy
+13 23 skyblue
+20 40 skyblue
+39 24 blue
+9 14 skyblue
+49 121 navy
+37 36 blue
+19 16 skyblue
+14 38 skyblue
+13 37 skyblue
+17 25 skyblue
+12 20 skyblue
+56 118 navy
+9 8 skyblue
+11 4 skyblue
+8 15 skyblue
+9 24 skyblue
+55 72 navy
+14 10 skyblue
+17 35 skyblue
+1 3 skyblue
+33 42 blue
+20 38 skyblue
+8 2 skyblue
+28 48 blue
+13 18 skyblue
+26 77 blue
+19 11 skyblue
+29 40 blue
+7 31 skyblue
+1 7 skyblue
+2 36 skyblue
+21 79 blue
+16 37 skyblue
+18 34 skyblue
+37 30 blue
+1 33 skyblue
+6 25 skyblue
+18 2 skyblue
+4 1 skyblue
+10 32 skyblue
+3 17 skyblue
+5 4 skyblue
+2 12 skyblue
+18 8 skyblue
+3 2 skyblue
+17 11 skyblue
+70 106 navy
+30 38 blue
+13 21 skyblue
+6 40 skyblue
+10 17 skyblue

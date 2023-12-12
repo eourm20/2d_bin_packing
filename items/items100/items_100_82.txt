@@ -1,100 +1,100 @@
-3 174
-80 2
-5 178
-57 68
-70 39
-42 62
-2 61
-12 113
-75 16
-54 19
-97 50
-18 41
-36 100
-33 162
-70 35
-5 82
-24 168
-3 132
-39 11
-4 96
-5 175
-36 39
-39 87
-98 3
-18 96
-31 136
-19 88
-27 139
-37 30
-29 14
-51 35
-50 26
-16 86
-10 160
-62 2
-17 35
-38 52
-100 30
-8 30
-29 6
-72 19
-38 5
-6 43
-22 164
-39 44
-97 54
-1 121
-17 48
-71 9
-14 2
-69 16
-5 189
-30 76
-36 74
-19 63
-69 1
-12 16
-49 61
-12 50
-29 48
-16 21
-44 64
-9 23
-21 21
-96 12
-37 84
-23 39
-12 197
-28 30
-19 177
-20 68
-69 13
-11 141
-14 161
-78 31
-33 136
-17 197
-12 124
-39 48
-49 72
-84 57
-57 100
-46 40
-73 53
-28 136
-5 139
-69 49
-50 40
-57 74
-12 177
-52 59
-61 30
-13 67
-32 99
-38 149
-60 47
-75 41
-24 66
-71 39
-2 73
+2 34 skyblue
+4 38 skyblue
+58 98 navy
+13 17 skyblue
+16 35 skyblue
+3 4 skyblue
+13 30 skyblue
+16 35 skyblue
+14 20 skyblue
+59 83 navy
+12 30 skyblue
+22 58 blue
+4 34 skyblue
+11 18 skyblue
+1 26 skyblue
+69 105 navy
+6 14 skyblue
+16 16 skyblue
+14 5 skyblue
+18 34 skyblue
+12 10 skyblue
+51 134 navy
+62 137 navy
+11 40 skyblue
+9 36 skyblue
+4 17 skyblue
+15 2 skyblue
+5 4 skyblue
+1 15 skyblue
+12 33 skyblue
+19 1 skyblue
+49 45 navy
+5 10 skyblue
+9 8 skyblue
+8 21 skyblue
+17 29 skyblue
+30 34 blue
+17 23 skyblue
+35 33 blue
+9 30 skyblue
+15 20 skyblue
+20 3 skyblue
+13 16 skyblue
+37 71 blue
+29 50 blue
+1 38 skyblue
+34 26 blue
+2 7 skyblue
+24 27 blue
+7 3 skyblue
+39 34 blue
+36 47 blue
+3 37 skyblue
+2 4 skyblue
+5 14 skyblue
+38 62 blue
+20 17 skyblue
+7 18 skyblue
+26 26 blue
+25 30 blue
+4 25 skyblue
+2 38 skyblue
+2 32 skyblue
+3 39 skyblue
+29 51 blue
+7 29 skyblue
+19 38 skyblue
+12 34 skyblue
+15 28 skyblue
+55 109 navy
+8 39 skyblue
+13 15 skyblue
+2 3 skyblue
+38 26 blue
+11 21 skyblue
+17 14 skyblue
+3 35 skyblue
+36 22 blue
+29 48 blue
+5 5 skyblue
+17 18 skyblue
+60 81 navy
+15 25 skyblue
+50 107 navy
+16 7 skyblue
+1 18 skyblue
+2 3 skyblue
+29 74 blue
+19 29 skyblue
+33 62 blue
+29 61 blue
+20 38 skyblue
+16 30 skyblue
+8 20 skyblue
+11 26 skyblue
+16 14 skyblue
+19 20 skyblue
+29 77 blue
+14 4 skyblue
+52 75 navy

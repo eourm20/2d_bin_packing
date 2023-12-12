@@ -1,200 +1,200 @@
-29 20
-32 41
-89 35
-31 114
-93 40
-21 71
-54 13
-6 78
-38 34
-4 45
-6 60
-7 199
-31 125
-70 56
-69 8
-23 117
-10 57
-85 14
-44 13
-22 84
-9 105
-23 115
-75 64
-28 40
-43 50
-29 156
-77 4
-47 52
-47 9
-16 113
-2 72
-64 11
-25 153
-65 16
-30 103
-12 117
-30 22
-81 50
-23 158
-37 7
-17 105
-12 120
-18 7
-33 179
-86 33
-73 82
-9 195
-1 118
-13 24
-45 115
-9 58
-36 14
-68 30
-9 82
-3 163
-10 11
-22 18
-24 35
-36 54
-27 148
-24 105
-27 22
-83 29
-26 94
-35 58
-42 9
-39 32
-37 117
-24 25
-83 57
-54 28
-65 6
-45 62
-23 17
-14 129
-6 187
-77 38
-35 69
-80 25
-67 29
-39 19
-9 69
-94 8
-22 139
-62 12
-23 65
-57 33
-55 70
-9 27
-13 142
-46 80
-29 105
-17 18
-20 152
-33 6
-28 128
-19 40
-25 8
-18 130
-9 92
-54 85
-12 177
-92 58
-79 22
-72 40
-85 9
-74 6
-47 42
-15 167
-9 126
-24 65
-41 29
-2 142
-6 113
-85 30
-42 9
-10 55
-35 107
-25 2
-75 5
-16 185
-11 40
-69 69
-36 98
-73 32
-8 23
-56 61
-81 65
-18 60
-19 193
-45 89
-22 29
-37 78
-41 34
-31 57
-38 96
-43 89
-13 84
-9 192
-3 155
-37 6
-50 10
-4 92
-89 60
-21 163
-1 112
-76 77
-28 185
-14 164
-24 137
-43 12
-12 31
-38 24
-21 161
-71 59
-14 164
-19 119
-34 61
-32 155
-52 37
-31 125
-39 26
-34 58
-44 38
-61 63
-16 97
-14 81
-52 9
-30 50
-1 126
-86 1
-46 8
-8 25
-18 194
-29 112
-2 94
-75 18
-23 59
-39 153
-20 28
-1 145
-50 94
-2 191
-7 76
-85 29
-27 70
-100 3
-59 27
-23 41
-66 38
-77 45
-11 89
-9 163
-22 121
-2 69
-83 10
-13 181
-6 60
-15 136
-34 61
+1 16 skyblue
+3 22 skyblue
+13 19 skyblue
+50 94 navy
+16 5 skyblue
+37 71 blue
+7 40 skyblue
+54 42 navy
+11 29 skyblue
+5 25 skyblue
+6 23 skyblue
+63 51 navy
+11 16 skyblue
+1 33 skyblue
+6 36 skyblue
+52 109 navy
+67 100 navy
+32 68 blue
+18 15 skyblue
+15 22 skyblue
+19 8 skyblue
+7 27 skyblue
+40 26 blue
+30 71 blue
+7 21 skyblue
+5 14 skyblue
+17 36 skyblue
+2 32 skyblue
+22 46 blue
+31 50 blue
+37 36 blue
+17 24 skyblue
+3 7 skyblue
+21 47 blue
+10 2 skyblue
+7 27 skyblue
+5 23 skyblue
+39 63 blue
+58 140 navy
+13 23 skyblue
+28 31 blue
+15 3 skyblue
+12 39 skyblue
+33 46 blue
+8 39 skyblue
+5 13 skyblue
+69 80 navy
+31 31 blue
+21 49 blue
+3 24 skyblue
+16 34 skyblue
+2 37 skyblue
+69 45 navy
+11 31 skyblue
+16 40 skyblue
+21 43 blue
+33 77 blue
+59 81 navy
+8 9 skyblue
+21 29 blue
+14 15 skyblue
+16 23 skyblue
+11 26 skyblue
+1 28 skyblue
+9 24 skyblue
+13 23 skyblue
+18 40 skyblue
+16 38 skyblue
+35 61 blue
+9 12 skyblue
+2 35 skyblue
+17 27 skyblue
+16 4 skyblue
+16 27 skyblue
+16 5 skyblue
+8 1 skyblue
+16 23 skyblue
+10 30 skyblue
+20 10 skyblue
+18 37 skyblue
+68 61 navy
+9 23 skyblue
+9 25 skyblue
+4 39 skyblue
+38 61 blue
+17 31 skyblue
+19 29 skyblue
+17 4 skyblue
+56 64 navy
+43 58 navy
+13 10 skyblue
+14 37 skyblue
+20 5 skyblue
+20 35 skyblue
+18 26 skyblue
+10 14 skyblue
+19 30 skyblue
+1 32 skyblue
+6 19 skyblue
+2 3 skyblue
+5 18 skyblue
+3 39 skyblue
+3 35 skyblue
+12 22 skyblue
+31 32 blue
+34 45 blue
+33 21 blue
+19 29 skyblue
+13 22 skyblue
+34 44 blue
+17 1 skyblue
+5 12 skyblue
+69 54 navy
+26 73 blue
+10 10 skyblue
+3 31 skyblue
+4 10 skyblue
+32 37 blue
+7 19 skyblue
+12 38 skyblue
+2 21 skyblue
+2 28 skyblue
+19 37 skyblue
+1 33 skyblue
+9 2 skyblue
+1 21 skyblue
+11 8 skyblue
+21 75 blue
+2 12 skyblue
+27 74 blue
+13 33 skyblue
+15 16 skyblue
+2 7 skyblue
+2 19 skyblue
+13 34 skyblue
+8 23 skyblue
+6 10 skyblue
+2 39 skyblue
+24 60 blue
+11 4 skyblue
+13 18 skyblue
+17 30 skyblue
+27 71 blue
+15 23 skyblue
+30 75 blue
+34 57 blue
+16 14 skyblue
+59 54 navy
+3 11 skyblue
+23 67 blue
+16 12 skyblue
+20 12 skyblue
+63 54 navy
+20 14 skyblue
+7 16 skyblue
+5 12 skyblue
+10 4 skyblue
+8 24 skyblue
+3 10 skyblue
+24 28 blue
+39 54 blue
+10 30 skyblue
+51 56 navy
+13 24 skyblue
+12 19 skyblue
+36 22 blue
+4 38 skyblue
+1 21 skyblue
+21 25 blue
+23 23 blue
+5 33 skyblue
+62 89 navy
+62 104 navy
+45 112 navy
+17 22 skyblue
+6 24 skyblue
+18 5 skyblue
+27 33 blue
+17 36 skyblue
+16 35 skyblue
+19 40 skyblue
+3 39 skyblue
+11 5 skyblue
+8 17 skyblue
+12 22 skyblue
+27 56 blue
+7 25 skyblue
+6 30 skyblue
+6 7 skyblue
+61 104 navy
+27 54 blue
+7 19 skyblue
+10 25 skyblue
+8 20 skyblue
+12 13 skyblue
+18 13 skyblue
+6 40 skyblue
+36 32 blue
+1 27 skyblue
+14 3 skyblue

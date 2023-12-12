@@ -1,100 +1,100 @@
-4 35
-13 134
-23 109
-93 42
-61 38
-49 119
-63 74
-9 98
-23 57
-23 144
-62 38
-39 101
-99 37
-3 107
-29 136
-69 70
-16 54
-26 20
-62 46
-45 54
-46 3
-22 29
-40 90
-30 118
-78 43
-65 59
-5 3
-68 13
-4 77
-45 28
-29 9
-60 40
-2 6
-51 51
-38 108
-3 134
-3 85
-79 2
-38 47
-12 7
-27 77
-44 130
-11 104
-86 39
-28 58
-7 139
-63 34
-21 166
-6 156
-49 28
-25 14
-52 37
-9 159
-20 112
-24 72
-31 5
-48 17
-32 187
-63 25
-29 71
-18 75
-60 61
-9 149
-2 149
-53 94
-29 30
-22 74
-69 50
-6 170
-34 55
-24 77
-23 81
-9 4
-41 26
-8 168
-14 86
-29 138
-91 3
-12 32
-83 27
-19 8
-20 4
-54 83
-50 50
-52 2
-18 21
-49 81
-19 102
-19 189
-15 31
-76 15
-34 96
-2 4
-7 186
-18 45
-10 192
-53 102
-55 32
-24 95
-29 46
+6 6 skyblue
+14 21 skyblue
+1 6 skyblue
+11 28 skyblue
+1 5 skyblue
+19 6 skyblue
+7 18 skyblue
+15 10 skyblue
+34 25 blue
+1 39 skyblue
+1 39 skyblue
+17 16 skyblue
+31 45 blue
+23 59 blue
+37 66 blue
+19 18 skyblue
+2 14 skyblue
+4 39 skyblue
+28 40 blue
+60 41 navy
+38 50 blue
+4 17 skyblue
+22 75 blue
+2 6 skyblue
+12 29 skyblue
+38 30 blue
+4 18 skyblue
+63 108 navy
+12 12 skyblue
+10 24 skyblue
+5 22 skyblue
+1 11 skyblue
+5 6 skyblue
+16 16 skyblue
+15 10 skyblue
+56 83 navy
+68 130 navy
+17 36 skyblue
+11 17 skyblue
+20 17 skyblue
+16 39 skyblue
+3 28 skyblue
+7 5 skyblue
+20 10 skyblue
+20 12 skyblue
+12 17 skyblue
+15 38 skyblue
+20 33 skyblue
+19 3 skyblue
+10 21 skyblue
+4 30 skyblue
+7 31 skyblue
+18 31 skyblue
+7 3 skyblue
+12 28 skyblue
+26 80 blue
+18 39 skyblue
+41 80 navy
+29 56 blue
+51 73 navy
+32 24 blue
+7 11 skyblue
+10 26 skyblue
+68 54 navy
+38 28 blue
+23 55 blue
+33 29 blue
+15 33 skyblue
+8 24 skyblue
+23 80 blue
+3 2 skyblue
+5 23 skyblue
+16 32 skyblue
+14 5 skyblue
+7 5 skyblue
+9 37 skyblue
+19 40 skyblue
+8 31 skyblue
+5 34 skyblue
+5 38 skyblue
+49 123 navy
+18 4 skyblue
+7 30 skyblue
+43 88 navy
+24 41 blue
+5 18 skyblue
+17 8 skyblue
+37 43 blue
+2 18 skyblue
+9 15 skyblue
+29 78 blue
+58 66 navy
+18 28 skyblue
+12 37 skyblue
+6 3 skyblue
+18 39 skyblue
+27 47 blue
+25 76 blue
+1 9 skyblue
+19 7 skyblue
