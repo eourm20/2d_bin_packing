@@ -139,9 +139,9 @@ if __name__ == '__main__':
     num_items = args.num_items
     num_bins = num_items # bin의 개수는 item의 개수보다 작거나 같음
     item, category_color = load_items(num_items, 0)
-    # binsolve(item, num_items, num_bins, bin_width, bin_height)
-    # print(f"{num_items}개 item 실험 완료")
+    binsolve(item, num_items, num_bins, bin_width, bin_height)
+    print(f"{num_items}개 item 실험 완료")
     
-    load_prob(num_items, num_bins, item, category_color, bin_width, bin_height)
+    # load_prob(num_items, num_bins, item, category_color, bin_width, bin_height)
     
     

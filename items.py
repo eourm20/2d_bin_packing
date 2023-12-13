@@ -25,13 +25,23 @@ def load_items(num_items, iter):
         return load_items(num_items, iter)
 
 def create_items(num_items, iter): # TODO: Create items.txt
-    # small(bin 너비/높이 길이의 0~20%), medium(bin 너비/높이 길이의 20~40%), large(bin 너비/높이 길이의 40~70%) = 7:2:1
-    # small item
-    create_category(num_items, 0, 0.20, 0.7, "skyblue")
-    # medium item
-    create_category(num_items, 0.20, 0.40, 0.2, "blue")
-    # large item
-    create_category(num_items, 0.40, 0.70, 0.1, "navy")
+    if num_items == 20:
+        # small(bin 너비/높이 길이의 0~20%), medium(bin 너비/높이 길이의 20~40%), large(bin 너비/높이 길이의 40~70%) = 7:2:1
+        # small item
+        create_category(num_items, 0, 0.20, 0.7, "skyblue")
+        # medium item
+        create_category(num_items, 0.20, 0.40, 0.2, "blue")
+        # large item
+        create_category(num_items, 0.40, 0.70, 0.1, "navy")
+    
+    else:
+        # small(bin 너비/높이 길이의 0~20%), medium(bin 너비/높이 길이의 20~40%), large(bin 너비/높이 길이의 40~70%) = 7:2:1
+        # small item
+        create_category(num_items, 0, 0.20, 0.7, "skyblue")
+        # medium item
+        create_category(num_items, 0.20, 0.40, 0.2, "blue")
+        # large item
+        create_category(num_items, 0.40, 0.60, 0.1, "navy")
     
     # 모든 item을 섞어서 저장
     with open('items/items.txt', 'r') as f:
@@ -61,6 +71,7 @@ def create_category(all_num, pre_category_area_ratio, category_area_ratio, categ
         file.write(f"{w} {h} {category_color}\n")
             
 if __name__ == "__main__":
+    
     create_items(20)
     create_items(50)
     create_items(100)
